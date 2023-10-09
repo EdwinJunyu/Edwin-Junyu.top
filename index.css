@@ -1,0 +1,133 @@
+/* 在窗口宽度小于等于 768px 时应用的样式 */
+@media (max-width: 768px) {
+    /* 修改适配小屏幕的样式 */
+    .profile-info {
+        font-size: 14px; /* 在小屏幕上使用更小的字号 */
+      }
+    .responsive-image {
+        max-width: 50%;
+      }
+  }
+  
+  /* 在窗口宽度大于 768px 且小于等于 1200px 时应用的样式 */
+  @media (min-width: 769px) and (max-width: 1200px) {
+    /* 修改适配中等屏幕的样式 */
+    .responsive-image {
+      max-width: 70%; /* 图像最大宽度为父容器的70% */
+    }
+  }
+  
+  /* 在窗口宽度大于 1200px 时应用的样式 */
+  @media (min-width: 1201px) {
+    /* 修改适配大屏幕的样式 */
+    .responsive-image {
+      max-width: 100%; /* 图像最大宽度为父容器的100% */
+    }
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .top-bottom a{
+    padding: 5px 15px;
+    background-color: #555;
+    border: none;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .top-bar {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  a {
+
+  }
+  
+  .button:hover {
+    background-color: #777;
+  }
+
+  .profile-image{
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .profile-image img{
+    width: 30%;
+  }
+
+  .profile-info{
+    text-align: center;
+  }
+
+  .profile-info h1{
+    margin-bottom: 1px;
+  }
+
+
+.slider-container {
+    position: relative;
+    overflow: hidden;
+    transform: translate3d(0, 0, 0);
+  }
+  
+  .slider {
+    display: flex;
+    transition: transform 1s ease-in-out;
+  }
+  
+
+.slider-item {
+    flex: 0 0 100%;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  
+  .slider-img {
+    width: 20%;
+    height: auto;
+  }
+
+  .Weblink {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .linkitem {
+    width: 33.333%;
+    margin-top: 1%;
+    margin-left: 2%;
+  }
+  
+  .linkitem a{
+    padding: auto 30% ;
+    margin-top: auto;
+    background-color: #555;
+    border: none;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .ChristmasTree{
+    background-color: rgb(18, 139, 179); 
+    color: white; 
+    float: right; margin-right: 1%; 
+    margin-top: 3%; 
+    text-decoration: none;
+  }
+
+  
+  

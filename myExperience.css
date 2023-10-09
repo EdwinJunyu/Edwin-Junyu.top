@@ -1,0 +1,52 @@
+/* 在窗口宽度小于等于 768px 时应用的样式 */
+@media (max-width: 768px) {
+    /* 修改适配小屏幕的样式 */
+    .profile-info {
+        font-size: 14px; /* 在小屏幕上使用更小的字号 */
+      }
+  }
+  
+  /* 在窗口宽度大于 768px 且小于等于 1200px 时应用的样式 */
+  @media (min-width: 769px) and (max-width: 1200px) {
+    /* 修改适配中等屏幕的样式 */
+  }
+  
+  /* 在窗口宽度大于 1200px 时应用的样式 */
+  @media (min-width: 1201px) {
+    /* 修改适配大屏幕的样式 */
+  }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+  }
+
+  .gallery img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  a {
+    padding: 5px 15px;
+    background-color: #555;
+    border: none;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .top-bar {
+    color: rgb(231, 44, 44);
+    width: 100%; /* 设置宽度为100% */
+    height: 60px; /* 设置高度 */
+  }
