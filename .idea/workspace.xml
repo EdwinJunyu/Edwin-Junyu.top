@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="圣诞树属性修改">
-      <change beforePath="$PROJECT_DIR$/myExperience.html" beforeDir="false" afterPath="$PROJECT_DIR$/myExperience.html" afterDir="false" />
+    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="奖状顺序排班">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,7 @@
       <workItem from="1696861877330" duration="59000" />
       <workItem from="1696861950784" duration="1570000" />
       <workItem from="1696863527420" duration="337000" />
-      <workItem from="1696863880247" duration="1851000" />
+      <workItem from="1696863880247" duration="2168000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1696862755603</created>
@@ -94,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696865078609</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="奖状顺序排班">
+      <created>1696865924369</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696865924369</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="圣诞树属性修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="圣诞树属性修改" />
+    <MESSAGE value="奖状顺序排班" />
+    <option name="LAST_COMMIT_MESSAGE" value="奖状顺序排班" />
   </component>
 </project>
