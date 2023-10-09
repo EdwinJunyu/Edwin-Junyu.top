@@ -48,10 +48,6 @@
     padding: 10px 20px;
   }
   
-  a {
-
-  }
-  
   .button:hover {
     background-color: #777;
   }
@@ -90,8 +86,7 @@
     flex: 0 0 100%;
     max-width: 100%;
     display: flex;
-    justify-content: center;
-    
+    justify-content: center; 
   }
   
   
@@ -126,6 +121,10 @@
     color: white; 
     float: right; margin-right: 1%; 
     margin-top: 3%; 
+    text-decoration: none;
+  }
+
+  .ChristmasTree a{
     text-decoration: none;
   }
 
