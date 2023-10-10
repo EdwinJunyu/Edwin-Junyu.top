@@ -91,7 +91,7 @@
   
   
   .slider-img {
-    width: 20%;
+    width: 25%;
     height: auto;
   }
 
@@ -105,19 +105,34 @@
     width: 33.333%;
     margin-top: 1%;
     margin-left: 2%;
+    text-align: center;
   }
   
   .linkitem a{
     padding: auto 30% ;
     margin-top: auto;
-    background-color: #555;
     border: none;
-    color: white;
+    color: #4E4C4C;
     cursor: pointer;
     text-decoration: none;
   }
+
+  .item{
+    padding: auto 30% ;
+    margin-top: auto;
+    background-color: #4FC92E;
+    border: none;
+    color: #4E4C4C;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .linkitem:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
+
   .ChristmasTree{
-    background-color: rgb(18, 139, 179); 
     color: white; 
     float: right; margin-right: 1%; 
     margin-top: 3%; 
@@ -126,6 +141,14 @@
 
   .ChristmasTree a{
     text-decoration: none;
+  }
+
+  .ChristmasTree p{
+    color: #4E4C4C;
+  }
+
+  .ChristmasTree:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   }
 
   

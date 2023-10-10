@@ -79,3 +79,14 @@ li {
 .main{
   text-align: center;
 }
+
+.goHome{
+  border: none;
+  background-color: rgb(125, 204, 228);
+  color: white;
+  width: 30%;
+}
+
+.goHome:hover {
+  box-shadow: 0 0 10px rgba(52, 152, 179, 0.5);
+}
