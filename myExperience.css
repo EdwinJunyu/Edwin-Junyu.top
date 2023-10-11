@@ -50,3 +50,7 @@ body {
     width: 100%; /* 设置宽度为100% */
     height: 60px; /* 设置高度 */
   }
+
+  .sports-related-photo img{
+    width: 33.33%;
+  }
