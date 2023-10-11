@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="1.网页导航互动效果及配色。2.圣诞树返回按钮">
+    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="1.修改联系方式和圣诞树文字样式 2.修改 联系方式和圣诞树文字样式">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
       <workItem from="1696863880247" duration="3288000" />
       <workItem from="1696867325999" duration="524000" />
       <workItem from="1696953923626" duration="1111000" />
+      <workItem from="1697014988163" duration="756000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1696862755603</created>
@@ -109,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696954074210</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1.修改联系方式和圣诞树文字样式 2.修改 联系方式和圣诞树文字样式">
+      <created>1697015135877</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697015135877</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +140,7 @@
     <MESSAGE value="奖状顺序排班" />
     <MESSAGE value="奖状顺序排版及头像大小" />
     <MESSAGE value="1.网页导航互动效果及配色。2.圣诞树返回按钮" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.网页导航互动效果及配色。2.圣诞树返回按钮" />
+    <MESSAGE value="1.修改联系方式和圣诞树文字样式 2.修改 联系方式和圣诞树文字样式" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.修改联系方式和圣诞树文字样式 2.修改 联系方式和圣诞树文字样式" />
   </component>
 </project>
