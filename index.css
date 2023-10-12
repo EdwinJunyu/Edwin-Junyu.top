@@ -28,6 +28,7 @@
   body {
     margin: 0;
     font-family: Arial, sans-serif;
+    background-color:#FAF8F7;
   }
 
   .top-bottom a{
@@ -67,6 +68,7 @@
 
   .profile-info h1{
     margin-bottom: 1px;
+    color: #4E4C4C;
   }
 
 

@@ -4,8 +4,123 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="1.修改联系方式和圣诞树文字样式 2.修改 联系方式和圣诞树文字样式">
+    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="1.index-hobby分流 2.添加travel模块">
+      <change afterPath="$PROJECT_DIR$/Experience/myExperience.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experience/myExperience.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/index-hobby.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/index-img/Ins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/index-img/QQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/index-img/WeChat.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/index-img/头像.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/sport/img/射击1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/sport/img/羽毛球.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/sport/img/足球1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/sport/img/足球2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/sport/img/足球3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/sport/sport.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/sport/sport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/password.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/二维码图片轮换.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/提示语.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/滑动图片.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Misakamikoto.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/Misakamikoto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/map-picture.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/map-picture.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/map-picture.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/map-picture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/10.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/10.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/14.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/14.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/19.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/19.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/20.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/20.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/21.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/21.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/22.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/22.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/23.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/23.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/4.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/5.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/6.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/6.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/学园都市地图.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/学园都市地图.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/背景视频.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/背景视频.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/material/背景视频1.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/material/背景视频1.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict10.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict11.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict12.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict13.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict14.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict15.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict16.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict17.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict18.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict19.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict20.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict21.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict22.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict23.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict8.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/各学区地图/MapDistrict9.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/各学区地图/MapDistrict9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/图片集.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/图片集.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/学园都市图片.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/学园都市图片.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/旅行笔记.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/旅行笔记.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/Project/资源导航.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/资源导航.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/旧地图样式.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/旧地图样式.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QQ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myExperience.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myExperience.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/password.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/sport.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/sport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/sport.js" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/sport/sport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/img/T9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/img/T9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/travel.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/travel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/travel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二维码图片轮换.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/圣诞树/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/圣诞树/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/头像.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/御坂.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/提示语.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/滑动图片.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +144,16 @@
     </option>
   </component>
   <component name="ProjectId" id="2WWw83bu8TNLUa3LqBW05ulXSZ6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -51,6 +169,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Hobby" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -67,6 +190,10 @@
       <workItem from="1696867325999" duration="524000" />
       <workItem from="1696953923626" duration="1111000" />
       <workItem from="1697014988163" duration="756000" />
+      <workItem from="1697032127572" duration="1144000" />
+      <workItem from="1697124754350" duration="324000" />
+      <workItem from="1697125201978" duration="45000" />
+      <workItem from="1697127277070" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1696862755603</created>
@@ -117,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697015135877</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1.index-hobby分流 2.添加travel模块">
+      <created>1697032313723</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697032313723</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,12 +269,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="圣诞树属性修改" />
     <MESSAGE value="奖状顺序排班" />
     <MESSAGE value="奖状顺序排版及头像大小" />
     <MESSAGE value="1.网页导航互动效果及配色。2.圣诞树返回按钮" />
     <MESSAGE value="1.修改联系方式和圣诞树文字样式 2.修改 联系方式和圣诞树文字样式" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.修改联系方式和圣诞树文字样式 2.修改 联系方式和圣诞树文字样式" />
+    <MESSAGE value="1.index-hobby分流 2.添加travel模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.index-hobby分流 2.添加travel模块" />
   </component>
 </project>

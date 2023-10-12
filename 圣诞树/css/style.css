@@ -87,6 +87,10 @@ li {
   width: 30%;
 }
 
+.goHome a{
+  text-decoration: none;
+}
+
 .goHome:hover {
   box-shadow: 0 0 10px rgba(52, 152, 179, 0.5);
 }
