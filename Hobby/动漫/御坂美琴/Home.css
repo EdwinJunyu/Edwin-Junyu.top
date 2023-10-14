@@ -41,9 +41,6 @@ body {
   }
 }
 
-
-
-
 .topic{
     z-index: 99;
     width: 100%;
@@ -109,19 +106,12 @@ body {
     vertical-align: top;
 }
 
-.introduction-picture img{
-    
-}
-
 .introduction-paragraph{
     display: inline-block;
     font-size: x-large;
     margin-left: 75px;
 }
 
-.introduction-paragraph p{
-    
-}
 
 .video1{
     width: 70%;

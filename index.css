@@ -32,14 +32,14 @@
   }
 
   .top-bottom a{
-    padding: 5px 15px;
+    padding: 5px 10px;
     background-color: #555;
     border: none;
     color: white;
     cursor: pointer;
     text-decoration: none;
   }
-  
+   
   .top-bar {
     background-color: #333;
     color: white;

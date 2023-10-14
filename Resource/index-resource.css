@@ -1,0 +1,38 @@
+body{
+    background-color:#FAF8F7;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.Resource-content{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.Resource-content img{
+    max-width: 50%;
+    height: auto;
+}
+
+.index{
+    display: flex;
+    justify-content: center;
+}
+
