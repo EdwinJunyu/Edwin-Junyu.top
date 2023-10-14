@@ -127,3 +127,7 @@ body {
     border: 0;
     background: repeating-linear-gradient(135deg, #a2a9b6 0px, #a2a9b6 1px, transparent 1px, transparent 6px);   
 } 
+
+.home:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}

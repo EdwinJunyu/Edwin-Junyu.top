@@ -52,4 +52,8 @@ body {
   .next-button {
     right: 10px; /* 调整右侧箭头按钮的位置 */
   }
+
+  .home:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
   
