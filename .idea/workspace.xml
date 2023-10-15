@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="修改文件后缀">
+    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="上传Bing 搜索引擎工具文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="75b61c67-6d57-4ba3-a6b1-e7dd764c0dcd" name="撤销更改" comment="1.改进移动端大小适配&#10;2.修改提示语&#10;3.添加resource模块&#10;注意！resource模块的文件太大导致无法上传！">
@@ -99,6 +99,8 @@
       <workItem from="1697250385992" duration="1007000" />
       <workItem from="1697295354778" duration="410000" />
       <workItem from="1697296353725" duration="1294000" />
+      <workItem from="1697339474588" duration="944000" />
+      <workItem from="1697341374213" duration="1305000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1696862755603</created>
@@ -191,7 +193,28 @@
       <option name="project" value="LOCAL" />
       <updated>1697298074982</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1. 提交谷歌搜索引擎验证文件&#10;2.更改home返回键的CSS target样式">
+      <created>1697339552348</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697339552348</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1. 提交谷歌搜索引擎验证文件&#10;2.更改home返回键的CSS target样式">
+      <created>1697340433108</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697340433108</updated>
+    </task>
+    <task id="LOCAL-00016" summary="上传Bing 搜索引擎工具文件">
+      <created>1697341482482</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697341482482</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +245,8 @@
     <MESSAGE value="1.改进移动端大小适配&#10;2.修改提示语&#10;3.添加resource模块&#10;注意！resource模块的文件太大导致无法上传！" />
     <MESSAGE value="1.resource模块通过百度网盘上传资料&#10;2.添加多个Home按钮&#10;3.修改&lt;meta&gt;描述语&#10;4.加入JS预加载程序" />
     <MESSAGE value="修改文件后缀" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改文件后缀" />
+    <MESSAGE value="1. 提交谷歌搜索引擎验证文件&#10;2.更改home返回键的CSS target样式" />
+    <MESSAGE value="上传Bing 搜索引擎工具文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传Bing 搜索引擎工具文件" />
   </component>
 </project>
