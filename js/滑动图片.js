@@ -54,3 +54,22 @@ function nextImage() {
     }
     updateSlider();
   }
+
+  slider.addEventListener('touchstart', (e) => {
+    isDragging = true;
+    startPosition = e.touches[0].clientX;
+    slider.style.transition = 'none';
+  });
+  
+  slider.addEventListener('touchend', () => {
+    isDragging = false;
+    slider.style.transition = 'transform 0.5s ease';
+  });
+  
+  slider.addEventListener('touchmove', (e) => {
+    if (!isDragging) return;
+    const currentPosition = e.touches[0].clientX;
+    const diff = startPosition - currentPosition;
+    const move = -currentIndex * 100 - (diff / window.innerWidth) * 100;
+    slider.style.transform = `translateX(${move}%)`;
+  });
