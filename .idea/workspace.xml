@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="1.resource模块通过百度网盘上传资料&#10;2.添加多个Home按钮&#10;3.修改提示语">
-      <change afterPath="$PROJECT_DIR$/js/preload.js" afterDir="false" />
+    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="修改文件后缀">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hobby/index-hobby.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/index-hobby.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hobby/sport/sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/sport/sport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hobby/travel/travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/travel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hobby/动漫/Misakamikoto.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/动漫/Misakamikoto.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hobby/动漫/御坂美琴/旅行笔记.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resource/index-resource.html" beforeDir="false" afterPath="$PROJECT_DIR$/Resource/index-resource.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/提示语.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/提示语.js" afterDir="false" />
     </list>
     <list id="75b61c67-6d57-4ba3-a6b1-e7dd764c0dcd" name="撤销更改" comment="1.改进移动端大小适配&#10;2.修改提示语&#10;3.添加resource模块&#10;注意！resource模块的文件太大导致无法上传！">
       <change afterPath="$PROJECT_DIR$/Resource/doc/图解HTTP.pdf" afterDir="false" />
@@ -108,6 +98,7 @@
       <workItem from="1697208125219" duration="4404000" />
       <workItem from="1697250385992" duration="1007000" />
       <workItem from="1697295354778" duration="410000" />
+      <workItem from="1697296353725" duration="1294000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1696862755603</created>
@@ -186,7 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697250618273</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="1.resource模块通过百度网盘上传资料&#10;2.添加多个Home按钮&#10;3.修改meat content描述语&#10;4.假如JS预加载程序">
+      <created>1697296455312</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697296455312</updated>
+    </task>
+    <task id="LOCAL-00013" summary="修改文件后缀">
+      <created>1697298074982</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697298074982</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +220,8 @@
     <MESSAGE value="大整改！&#10;1.优化文件结构&#10;2.添加运动模块&#10;3.更改背景颜色&#10;4.重新导入并调整experience模块的CSS样式（使图片居中）" />
     <MESSAGE value="1.添加resource模块&#10;2.改进移动端大小适配&#10;3.修改提示语" />
     <MESSAGE value="1.改进移动端大小适配&#10;2.修改提示语&#10;3.添加resource模块&#10;注意！resource模块的文件太大导致无法上传！" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.改进移动端大小适配&#10;2.修改提示语&#10;3.添加resource模块&#10;注意！resource模块的文件太大导致无法上传！" />
+    <MESSAGE value="1.resource模块通过百度网盘上传资料&#10;2.添加多个Home按钮&#10;3.修改&lt;meta&gt;描述语&#10;4.加入JS预加载程序" />
+    <MESSAGE value="修改文件后缀" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改文件后缀" />
   </component>
 </project>
