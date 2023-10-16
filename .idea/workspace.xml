@@ -4,10 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="修改搜索引擎的站点地图">
+    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="1.添加travel图片&#10;2.修改sport文本&#10;3.修改主页提示语">
+      <change afterPath="$PROJECT_DIR$/Hobby/travel/img/C1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/travel/img/C2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/travel/img/C3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/travel/img/C4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/travel/img/C5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/travel/img/C6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/travel/img/C7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/travel/img/C8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobby/travel/img/C9.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/sport/img/足球1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/sport/img/足球1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/sport/img/足球2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/sport/img/足球2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/sport/sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/sport/sport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/travel.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/travel.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hobby/travel/travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hobby/travel/travel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/滑动图片.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/滑动图片.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/提示语.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/提示语.js" afterDir="false" />
     </list>
     <list id="75b61c67-6d57-4ba3-a6b1-e7dd764c0dcd" name="撤销更改" comment="1.改进移动端大小适配&#10;2.修改提示语&#10;3.添加resource模块&#10;注意！resource模块的文件太大导致无法上传！">
       <change afterPath="$PROJECT_DIR$/Resource/doc/图解HTTP.pdf" afterDir="false" />
@@ -104,6 +118,10 @@
       <workItem from="1697339474588" duration="944000" />
       <workItem from="1697341374213" duration="3555000" />
       <workItem from="1697346652924" duration="1372000" />
+      <workItem from="1697359745065" duration="693000" />
+      <workItem from="1697462039872" duration="178000" />
+      <workItem from="1697462931862" duration="74000" />
+      <workItem from="1697463065522" duration="454000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1696862755603</created>
@@ -231,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697345135155</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="1.触屏模式的滑动图片&#10;2.修改首页提示语">
+      <created>1697359826745</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1697359826745</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,6 +291,7 @@
     <MESSAGE value="上传Bing 搜索引擎工具文件" />
     <MESSAGE value="修改主页提示语" />
     <MESSAGE value="修改搜索引擎的站点地图" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改搜索引擎的站点地图" />
+    <MESSAGE value="1.触屏模式的滑动图片&#10;2.修改首页提示语" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.触屏模式的滑动图片&#10;2.修改首页提示语" />
   </component>
 </project>
