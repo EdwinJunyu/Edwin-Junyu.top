@@ -153,5 +153,21 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   }
 
+  .window-3d{
+    display: none;
+  }
+
+  .window-3d a{
+    text-decoration: none;
+  }
+
+  .window-3d p{
+    color: #4E4C4C;
+  }
+
+  .window-3d:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
   
   
