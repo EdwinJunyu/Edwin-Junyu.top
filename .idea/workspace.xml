@@ -4,23 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="修改图片格式">
+    <list default="true" id="afd1b47f-9f93-46f9-8342-287408ae3e13" name="更改" comment="修改 3D窗口的名字">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hobby/travel/img/T9.jpg" beforeDir="false" />
     </list>
-    <list id="75b61c67-6d57-4ba3-a6b1-e7dd764c0dcd" name="撤销更改" comment="1.改进移动端大小适配&#10;2.修改提示语&#10;3.添加resource模块&#10;注意！resource模块的文件太大导致无法上传！">
-      <change afterPath="$PROJECT_DIR$/Resource/doc/图解HTTP.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/doc/图解java多线程设计模式.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/doc/图解密码技术.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/doc/图解机器学习.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/doc/图解深度学习.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/doc/图解网络硬件完整版.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/doc/图解设计模式.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/doc/数据结构与算法图解.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/doc/深度学习的数学.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/doc/程序员的数学.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/doc/程序员的数学2 概率统计.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/doc/程序员的数学3线性代数.pdf" afterDir="false" />
-    </list>
+    <list id="75b61c67-6d57-4ba3-a6b1-e7dd764c0dcd" name="撤销更改" comment="1.改进移动端大小适配&#10;2.修改提示语&#10;3.添加resource模块&#10;注意！resource模块的文件太大导致无法上传！" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,6 +110,10 @@
       <workItem from="1697463570498" duration="785000" />
       <workItem from="1697464808999" duration="192000" />
       <workItem from="1697465088275" duration="54000" />
+      <workItem from="1701005677752" duration="149000" />
+      <workItem from="1701005964864" duration="207000" />
+      <workItem from="1701006352144" duration="15000" />
+      <workItem from="1704629189688" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1696862755603</created>
@@ -257,7 +262,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697465125395</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="添加 跨窗口3D特效 （主页已隐藏按钮）">
+      <created>1701005813830</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1701005813830</updated>
+    </task>
+    <task id="LOCAL-00023" summary="修改 3D窗口的名字">
+      <created>1701006163312</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1701006163312</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +314,8 @@
     <MESSAGE value="1.触屏模式的滑动图片&#10;2.修改首页提示语" />
     <MESSAGE value="1.添加travel图片&#10;2.修改sport文本&#10;3.修改主页提示语" />
     <MESSAGE value="修改图片格式" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改图片格式" />
+    <MESSAGE value="添加 跨窗口3D特效 （主页已隐藏按钮）" />
+    <MESSAGE value="修改 3D窗口的名字" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改 3D窗口的名字" />
   </component>
 </project>

@@ -61,9 +61,10 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
+  align-items: stretch;
   margin: 0 auto;
   gap: 0.5%;
+
 }
 .gallery img{
   max-width: 100%;
